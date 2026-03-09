@@ -1,0 +1,1 @@
+{"name": "frontier-flight-tracker", "version": "1.0.0", "description": "Track Frontier flights to/from Florida in the last 24 hours", "main": "server.js", "scripts": {"start": "node server.js", "dev": "nodemon server.js"}, "dependencies": {"express": "^4.18.2", "axios": "^1.4.0", "dotenv": "^16.0.3", "cors": "^2.8.5", "node-schedule": "^2.1.1"}}
